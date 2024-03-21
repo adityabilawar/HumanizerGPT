@@ -1,6 +1,6 @@
-# Thumbnail Generator
+# HumanizerGPT
 
-This project is a thumbnail generator built with Vue.js for the frontend and Go for the backend.
+This project is a Essay/Code generator but has 0% AI detection. Tested with ZeroGPT, Quilbot AI detection, etc.
 
 ## Tech Stack
 
