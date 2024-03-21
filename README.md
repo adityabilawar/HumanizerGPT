@@ -1,6 +1,6 @@
 # HumanizerGPT
 
-This project is a Essay/Code generator but has 0% AI detection. Tested with ZeroGPT, Quilbot AI detection, etc.
+This project is a Essay/Code generator but has 0% AI detection. Tested with ZeroGPT, Quilbot AI detection, etc. ***DISCLAIMER: The author does not endorse the use of this app for any unethical purposes***
 
 ## Tech Stack
 
